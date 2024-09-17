@@ -1,0 +1,11 @@
+build/
+__pycache__/
+
+training_data/
+
+detected_audio/
+
+wake_word_data/
+
+venv/
+
